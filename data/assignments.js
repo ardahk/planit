@@ -48,8 +48,8 @@ assignments = {
       "title": "Hog Checkpoint",
       "course": "CS 61A",
       "dueDate": "2024-09-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/4903882/submissions/266849093",
+      "submitted": true
     },
     {
       "title": "Hog",
