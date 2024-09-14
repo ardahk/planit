@@ -4,15 +4,15 @@ assignments = {
       "title": "Vitamin 1",
       "course": "CS 198-008",
       "dueDate": "2024-09-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833359/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833359/submissions/267450273",
+      "submitted": true
     },
     {
       "title": "Lab 01",
       "course": "CS 198-008",
       "dueDate": "2024-09-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833361/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833361/submissions/267452518",
+      "submitted": true
     }
   ],
   "CS 61A": [
@@ -199,8 +199,8 @@ assignments = {
       "title": "Homework 2",
       "course": "CS 70",
       "dueDate": "2024-09-14T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/4919345/submissions/267449329",
+      "submitted": true
     }
   ]
 };
