@@ -8,11 +8,25 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 02",
+      "course": "CS 198-008",
+      "dueDate": "2024-09-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833360/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Lab 01",
       "course": "CS 198-008",
       "dueDate": "2024-09-14T23:59:00",
       "link": "https://www.gradescope.com/courses/844937/assignments/4833361/submissions/267452518",
       "submitted": true
+    },
+    {
+      "title": "Vitamin 2",
+      "course": "CS 198-008",
+      "dueDate": "2024-09-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833371/submissions/new",
+      "submitted": false
     }
   ],
   "CS 61A": [
