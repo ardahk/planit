@@ -25,8 +25,8 @@ assignments = {
       "title": "Vitamin 2",
       "course": "CS 198-008",
       "dueDate": "2024-09-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833371/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833371/submissions/268520301",
+      "submitted": true
     }
   ],
   "CS 61A": [
