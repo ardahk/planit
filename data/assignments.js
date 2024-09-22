@@ -11,8 +11,8 @@ assignments = {
       "title": "Lab 02",
       "course": "CS 198-008",
       "dueDate": "2024-09-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833360/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833360/submissions/270018016",
+      "submitted": true
     },
     {
       "title": "Lab 01",
