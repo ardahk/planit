@@ -106,6 +106,20 @@ assignments = {
       "dueDate": "2024-09-25T23:59:00",
       "link": "https://www.gradescope.com/courses/843175/assignments/5015318/submissions/271129109",
       "submitted": true
+    },
+    {
+      "title": "Cats",
+      "course": "CS 61A",
+      "dueDate": "2024-10-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
+    },
+    {
+      "title": "Cats Checkpoint",
+      "course": "CS 61A",
+      "dueDate": "2024-10-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
