@@ -125,8 +125,8 @@ assignments = {
       "title": "Cats",
       "course": "CS 61A",
       "dueDate": "2024-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5043510/submissions/274550177",
+      "submitted": true
     },
     {
       "title": "Cats Checkpoint",
@@ -141,6 +141,13 @@ assignments = {
       "dueDate": "2024-10-02T23:59:00",
       "link": "https://www.gradescope.com/courses/843175/assignments/5072731/submissions/273330663",
       "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "CS 61A",
+      "dueDate": "2024-10-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
@@ -367,8 +374,8 @@ assignments = {
       "title": "Homework 5",
       "course": "CS 70",
       "dueDate": "2024-10-05T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5074325/submissions/274552321",
+      "submitted": true
     }
   ]
 };
