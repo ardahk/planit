@@ -422,8 +422,15 @@ assignments = {
     {
       "title": "Mini-Vitamin 6A",
       "course": "CS 70",
-      "dueDate": "2024-02-27T18:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
+      "dueDate": "2024-10-08T18:00:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5119181/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 6B",
+      "course": "CS 70",
+      "dueDate": "2024-10-10T18:00:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5119233/submissions/new",
       "submitted": false
     }
   ]
