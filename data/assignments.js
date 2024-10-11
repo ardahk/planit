@@ -169,6 +169,27 @@ assignments = {
       "dueDate": "2024-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/843175/assignments/5112366/submissions/276306078",
       "submitted": true
+    },
+    {
+      "title": "Ants Checkpoint 1",
+      "course": "CS 61A",
+      "dueDate": "2024-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
+    },
+    {
+      "title": "Ants Checkpoint 2",
+      "course": "CS 61A",
+      "dueDate": "2024-10-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
+    },
+    {
+      "title": "Ants",
+      "course": "CS 61A",
+      "dueDate": "2024-10-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
