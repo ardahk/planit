@@ -211,6 +211,13 @@ assignments = {
       "dueDate": "2024-10-17T23:59:00",
       "link": "https://www.gradescope.com/courses/843175",
       "submitted": false
+    },
+    {
+      "title": "Lab 6",
+      "course": "CS 61A",
+      "dueDate": "2024-10-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
