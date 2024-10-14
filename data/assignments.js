@@ -332,6 +332,13 @@ assignments = {
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
       "submitted": false
+    },
+    {
+      "title": "Lab 07",
+      "course": "CS 61B",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     }
   ],
   "CS 70": [
@@ -481,6 +488,13 @@ assignments = {
       "dueDate": "2024-10-10T19:30:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5119233/submissions/276773974",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 7B",
+      "course": "CS 70",
+      "dueDate": "2024-10-17T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5153870/submissions/new",
+      "submitted": false
     }
   ]
 };
