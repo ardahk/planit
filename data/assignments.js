@@ -299,6 +299,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Project 2B: Wordnet",
+      "course": "CS 61B",
+      "dueDate": "2024-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
       "title": "[UNGRADED] Project 1B: ArrayDeque Test Coverage",
       "course": "CS 61B",
       "dueDate": "2024-09-20T23:59:00",
@@ -330,6 +337,13 @@ assignments = {
       "title": "Lab 05",
       "course": "CS 61B",
       "dueDate": "2024-10-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
+      "title": "Project 2B: Design Document",
+      "course": "CS 61B",
+      "dueDate": "2024-10-28T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
       "submitted": false
     },
