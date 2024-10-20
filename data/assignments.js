@@ -46,8 +46,8 @@ assignments = {
       "title": "Lab 05",
       "course": "CS 198-008",
       "dueDate": "2024-10-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/844937/assignments/4833364/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833364/submissions/279981582",
+      "submitted": true
     },
     {
       "title": "Vitamin 6",
