@@ -50,6 +50,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Vitamin 7",
+      "course": "CS 198-008",
+      "dueDate": "2024-10-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833367/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 07",
+      "course": "CS 198-008",
+      "dueDate": "2024-10-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833368/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 6",
       "course": "CS 198-008",
       "dueDate": "2024-10-19T23:59:00",
@@ -359,6 +373,13 @@ assignments = {
       "course": "CS 61B",
       "dueDate": "2024-10-18T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
+      "title": "Project 2B: Checkpoint",
+      "course": "CS 61B",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096/assignments/5117647/submissions/new",
       "submitted": false
     },
     {
