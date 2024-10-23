@@ -563,14 +563,21 @@ assignments = {
       "title": "Mini-Vitamin 8A",
       "course": "CS 70",
       "dueDate": "2024-10-22T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5180622/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5180622/submissions/280872198",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 8B",
       "course": "CS 70",
       "dueDate": "2024-10-24T19:30:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5180626/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework 8",
+      "course": "CS 70",
+      "dueDate": "2024-10-26T16:00:00",
+      "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
     }
   ]
