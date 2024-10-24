@@ -244,8 +244,8 @@ assignments = {
       "title": "Lab 7",
       "course": "CS 61A",
       "dueDate": "2024-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5197025/submissions/281416226",
+      "submitted": true
     }
   ],
   "CS 61B": [
