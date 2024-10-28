@@ -92,6 +92,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 08",
+      "course": "CS 198-008",
+      "dueDate": "2024-11-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833373/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 4",
       "course": "CS 198-008",
       "dueDate": "2024-10-06T23:59:00",
@@ -216,8 +223,8 @@ assignments = {
       "title": "Ants",
       "course": "CS 61A",
       "dueDate": "2024-10-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5142631/submissions/282642110",
+      "submitted": true
     },
     {
       "title": "Homework 5",
@@ -579,6 +586,20 @@ assignments = {
       "dueDate": "2024-10-26T16:00:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5199704/submissions/282460214",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 9A",
+      "course": "CS 70",
+      "dueDate": "2024-10-29T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5208804/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 9B",
+      "course": "CS 70",
+      "dueDate": "2024-10-31T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5208929/submissions/new",
+      "submitted": false
     }
   ]
 };
