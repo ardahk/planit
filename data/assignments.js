@@ -99,6 +99,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Vitamin 8",
+      "course": "CS 198-008",
+      "dueDate": "2024-11-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833377/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 4",
       "course": "CS 198-008",
       "dueDate": "2024-10-06T23:59:00",
