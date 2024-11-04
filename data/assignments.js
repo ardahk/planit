@@ -106,6 +106,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Vitamin 9",
+      "course": "CS 198-008",
+      "dueDate": "2024-11-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833376/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 8",
       "course": "CS 198-008",
       "dueDate": "2024-11-02T23:59:00",
@@ -628,6 +635,20 @@ assignments = {
       "dueDate": "2024-11-02T16:00:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5232962/submissions/284908348",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 10A",
+      "course": "CS 70",
+      "dueDate": "2024-11-05T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5263986/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 10B",
+      "course": "CS 70",
+      "dueDate": "2024-11-07T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5264006/submissions/new",
+      "submitted": false
     }
   ]
 };
