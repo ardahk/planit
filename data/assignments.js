@@ -288,6 +288,13 @@ assignments = {
       "dueDate": "2024-11-06T23:59:00",
       "link": "https://www.gradescope.com/courses/843175",
       "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "CS 61A",
+      "dueDate": "2024-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
@@ -655,6 +662,13 @@ assignments = {
       "course": "CS 70",
       "dueDate": "2024-11-07T19:30:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5264006/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "CS 70",
+      "dueDate": "2024-11-09T16:00:00",
+      "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
     }
   ]
