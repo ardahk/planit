@@ -295,6 +295,13 @@ assignments = {
       "dueDate": "2024-11-07T23:59:00",
       "link": "https://www.gradescope.com/courses/843175/assignments/5269675/submissions/286820726",
       "submitted": true
+    },
+    {
+      "title": "Homework 8",
+      "course": "CS 61A",
+      "dueDate": "2024-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
