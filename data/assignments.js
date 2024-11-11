@@ -106,6 +106,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 10",
+      "course": "CS 198-008",
+      "dueDate": "2024-11-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833374/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 9",
       "course": "CS 198-008",
       "dueDate": "2024-11-09T23:59:00",
