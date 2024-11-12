@@ -314,8 +314,8 @@ assignments = {
       "title": "Lab 10",
       "course": "CS 61A",
       "dueDate": "2024-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5308295/submissions/288281376",
+      "submitted": true
     }
   ],
   "CS 61B": [
@@ -724,8 +724,8 @@ assignments = {
       "title": "Mini-Vitamin 11A",
       "course": "CS 70",
       "dueDate": "2024-11-12T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5283706/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5283706/submissions/288286169",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 11B",
