@@ -334,7 +334,7 @@ assignments = {
     {
       "title": "Scheme",
       "course": "CS 61A",
-      "dueDate": "2024-11-25T23:59:00",
+      "dueDate": "2024-11-26T23:59:00",
       "link": "https://www.gradescope.com/courses/843175",
       "submitted": false
     }
