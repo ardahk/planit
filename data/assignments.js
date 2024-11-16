@@ -498,8 +498,8 @@ assignments = {
       "title": "Project 2B: Checkpoint",
       "course": "CS 61B",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096/assignments/5117647/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5117647/submissions/289670162",
+      "submitted": true
     },
     {
       "title": "Homework 3: Midterm 2 Conceptual Review",
