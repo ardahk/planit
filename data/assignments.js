@@ -57,6 +57,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Vitamin 11",
+      "course": "CS 198-008",
+      "dueDate": "2024-12-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833366/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 7",
       "course": "CS 198-008",
       "dueDate": "2024-10-26T23:59:00",
@@ -111,6 +118,13 @@ assignments = {
       "dueDate": "2024-11-16T23:59:00",
       "link": "https://www.gradescope.com/courses/844937/assignments/4833374/submissions/289296202",
       "submitted": true
+    },
+    {
+      "title": "Lab 11",
+      "course": "CS 198-008",
+      "dueDate": "2024-12-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/844937/assignments/4833375/submissions/new",
+      "submitted": false
     },
     {
       "title": "Vitamin 9",
