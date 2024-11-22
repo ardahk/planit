@@ -342,8 +342,8 @@ assignments = {
       "title": "Scheme Checkpoint 2",
       "course": "CS 61A",
       "dueDate": "2024-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/843175",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/843175/assignments/5320122/submissions/291687288",
+      "submitted": true
     },
     {
       "title": "Scheme",
@@ -816,6 +816,13 @@ assignments = {
       "course": "CS 70",
       "dueDate": "2024-11-23T16:00:00",
       "link": "https://www.gradescope.com/courses/836005",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 13A",
+      "course": "CS 70",
+      "dueDate": "2024-11-26T18:00:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5352068/submissions/new",
       "submitted": false
     }
   ]
