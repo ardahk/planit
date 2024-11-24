@@ -822,8 +822,8 @@ assignments = {
       "title": "Homework 12",
       "course": "CS 70",
       "dueDate": "2024-11-23T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5343094/submissions/292270884",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 13A",
