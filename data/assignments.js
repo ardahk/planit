@@ -512,8 +512,8 @@ assignments = {
       "title": "[UNGRADED] Project 3B: Interactivity and Ambition",
       "course": "CS 61B",
       "dueDate": "2024-11-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5002672/submissions/293529401",
+      "submitted": true
     },
     {
       "title": "Lab 07",
