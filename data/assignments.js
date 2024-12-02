@@ -845,6 +845,13 @@ assignments = {
       "dueDate": "2024-12-02T16:00:00",
       "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 14A",
+      "course": "CS 70",
+      "dueDate": "2024-12-03T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5393150/submissions/new",
+      "submitted": false
     }
   ]
 };
