@@ -379,6 +379,13 @@ assignments = {
       "dueDate": "2024-12-04T23:59:00",
       "link": "https://www.gradescope.com/courses/843175/assignments/5398387/submissions/294689610",
       "submitted": true
+    },
+    {
+      "title": "Scheme Contest (Optional)",
+      "course": "CS 61A",
+      "dueDate": "2024-12-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/843175",
+      "submitted": false
     }
   ],
   "CS 61B": [
