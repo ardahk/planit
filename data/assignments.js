@@ -36,5 +36,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "CS 61C": []
+  "CS 61C": [
+    {
+      "title": "Lab 0",
+      "course": "CS 61C",
+      "dueDate": "2025-01-27T00:00:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
+    }
+  ]
 };
