@@ -64,6 +64,13 @@ assignments = {
       "dueDate": "2025-02-06T23:59:00",
       "link": "https://www.gradescope.com/courses/952454",
       "submitted": false
+    },
+    {
+      "title": "Project 1",
+      "course": "CS 61C",
+      "dueDate": "2025-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
     }
   ]
 };
