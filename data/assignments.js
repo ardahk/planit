@@ -4,7 +4,7 @@ assignments = {
       "title": "Project 1A: Basic Traceroute",
       "course": "CS 168",
       "dueDate": "2025-02-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/943003/assignments/5631616/submissions/304857084",
+      "link": "https://www.gradescope.com/courses/943003/assignments/5631616/submissions/305260730",
       "submitted": true
     },
     {
