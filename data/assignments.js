@@ -11,8 +11,8 @@ assignments = {
       "title": "Project 1B: Traceroute Error Handling",
       "course": "CS 168",
       "dueDate": "2025-02-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/943003",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/943003/assignments/5631617/submissions/307728933",
+      "submitted": true
     },
     {
       "title": "Project 3A: Transport Checkpoint",
