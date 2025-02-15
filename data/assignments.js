@@ -69,7 +69,7 @@ assignments = {
       "title": "Project 1",
       "course": "CS 61C",
       "dueDate": "2025-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/952454/assignments/5726303/submissions/308437649",
+      "link": "https://www.gradescope.com/courses/952454/assignments/5726303/submissions/308765520",
       "submitted": true
     },
     {
@@ -78,6 +78,20 @@ assignments = {
       "dueDate": "2025-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/952454/assignments/5747951/submissions/308225353",
       "submitted": true
+    },
+    {
+      "title": "Project 2A",
+      "course": "CS 61C",
+      "dueDate": "2025-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
+    },
+    {
+      "title": "Project 2B",
+      "course": "CS 61C",
+      "dueDate": "2025-03-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
     }
   ]
 };
