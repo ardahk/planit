@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2025-03-17T23:59:00",
       "link": "https://www.gradescope.com/courses/943003/assignments/5807210/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "[Ungraded] Online Exam Demo Answer Sheet",
+      "course": "CS 168",
+      "dueDate": "2025-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/943003/assignments/5814432/submissions/new",
+      "submitted": false
     }
   ],
   "CS 61C": [
