@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2025-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/943003/assignments/5814432/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "HW3: Transport",
+      "course": "CS 168",
+      "dueDate": "2025-03-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/943003",
+      "submitted": false
     }
   ],
   "CS 61C": [
@@ -110,7 +117,7 @@ assignments = {
     {
       "title": "Lab 4",
       "course": "CS 61C",
-      "dueDate": "2025-02-27T23:59:00",
+      "dueDate": "2025-03-03T23:59:00",
       "link": "https://www.gradescope.com/courses/952454/assignments/5826362/submissions/312860447",
       "submitted": true
     }
