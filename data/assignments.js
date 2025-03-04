@@ -32,8 +32,8 @@ assignments = {
       "title": "Project 2: Routing",
       "course": "CS 168",
       "dueDate": "2025-02-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/943003",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/943003/assignments/5631623/submissions/314108547",
+      "submitted": true
     },
     {
       "title": "HW1: Internet Architecture",
