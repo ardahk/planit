@@ -120,6 +120,13 @@ assignments = {
       "dueDate": "2025-03-03T23:59:00",
       "link": "https://www.gradescope.com/courses/952454/assignments/5826362/submissions/312860447",
       "submitted": true
+    },
+    {
+      "title": "Lab 5",
+      "course": "CS 61C",
+      "dueDate": "2025-03-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
     }
   ]
 };
