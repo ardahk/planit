@@ -67,7 +67,7 @@ assignments = {
       "title": "Midterm (online)",
       "course": "CS 168",
       "dueDate": "2025-03-11T22:00:00",
-      "link": "https://www.gradescope.com/courses/943003/assignments/5878096/submissions/new",
+      "link": "https://www.gradescope.com/courses/943003",
       "submitted": false
     }
   ],
