@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2025-03-31T23:59:00",
       "link": "https://www.gradescope.com/courses/943003/assignments/5867178/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Midterm (online)",
+      "course": "CS 168",
+      "dueDate": "2025-03-11T22:00:00",
+      "link": "https://www.gradescope.com/courses/943003/assignments/5878096/submissions/new",
+      "submitted": false
     }
   ],
   "CS 61C": [
