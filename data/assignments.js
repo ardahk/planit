@@ -134,6 +134,20 @@ assignments = {
       "dueDate": "2025-03-20T23:59:00",
       "link": "https://www.gradescope.com/courses/952454",
       "submitted": false
+    },
+    {
+      "title": "Project 3A",
+      "course": "CS 61C",
+      "dueDate": "2025-04-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
+    },
+    {
+      "title": "Project 3B",
+      "course": "CS 61C",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/952454",
+      "submitted": false
     }
   ]
 };
