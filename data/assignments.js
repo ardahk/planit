@@ -46,8 +46,8 @@ assignments = {
       "title": "HW 2: Routing",
       "course": "CS 168",
       "dueDate": "2025-03-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/943003/assignments/5807210/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/943003/assignments/5807210/submissions/318746088",
+      "submitted": true
     },
     {
       "title": "[Ungraded] Online Exam Demo Answer Sheet",
