@@ -160,8 +160,8 @@ assignments = {
       "title": "Project 3A",
       "course": "CS 61C",
       "dueDate": "2025-04-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/952454",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952454/assignments/5949223/submissions/322944702",
+      "submitted": true
     },
     {
       "title": "Project 3B",
