@@ -81,7 +81,7 @@ assignments = {
       "title": "HW5: Datacenters",
       "course": "CS 168",
       "dueDate": "2025-04-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/943003",
+      "link": "https://www.gradescope.com/courses/943003/assignments/5972127/submissions/new",
       "submitted": false
     },
     {
