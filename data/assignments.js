@@ -74,8 +74,8 @@ assignments = {
       "title": "HW4: Applications, End-to-End",
       "course": "CS 168",
       "dueDate": "2025-04-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/943003/assignments/5972093/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/943003/assignments/5972093/submissions/325236383",
+      "submitted": true
     },
     {
       "title": "HW5: Datacenters",
